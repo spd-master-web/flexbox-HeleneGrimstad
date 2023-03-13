@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+
+.main {
+  width: 90%;
+  height: 90%;
+}
+
+.one {
+justify-content: flex-start;
+flex-direction: column;
+border: 1px solid red;
+width: 200px;
+}
+
+.two {
+  justify-content: flex-start;
+  flex-direction: column;
+  border: 1px solid red;
+  width: 200px;
+  }
+
+.three {
+  align-self: flex-end;
+  flex-direction: column;
+  border: 1px solid red;
+  width: 200px;
+  }
