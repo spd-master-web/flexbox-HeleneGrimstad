@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+.main {
+  width: 90%;
+  height: 90%;
+}
+
 .one {
 justify-content: flex-start;
 flex-direction: column;
