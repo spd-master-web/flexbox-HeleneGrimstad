@@ -10,12 +10,12 @@
 
 .one {
 border: 1px solid red;
--ms-flex-align: center;
 width: 100%;
 }
 
 .two {
   border: 1px solid red;
+  
   width: 100%;
   }
 
